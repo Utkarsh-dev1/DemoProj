@@ -1,0 +1,27 @@
+21:13:19.233 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Starting TC_001_MyAccountLoginTest ***
+21:52:34.384 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Starting TC_001_MyAccountLoginTest ***
+21:53:15.804 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Starting TC_001_MyAccountLoginTest ***
+21:57:12.570 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Starting TC_001_MyAccountLoginTest ***
+21:58:06.349 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Starting TC_001_MyAccountLoginTest ***
+22:00:22.500 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Starting TC_001_MyAccountLoginTest ***
+22:03:56.763 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Starting TC_001_MyAccountLoginTest ***
+22:31:56.135 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Starting TC_001_MyAccountLoginTest ***
+22:31:57.065 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Entering email address ***
+22:31:57.445 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Entering password  ***
+22:31:59.016 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Clicked on login ***
+22:31:59.050 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Comparing login value ***
+22:36:12.227 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Starting TC_001_MyAccountLoginTest ***
+22:36:13.446 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Entering email address ***
+22:36:13.770 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Entering password  ***
+22:36:15.200 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Clicked on login ***
+22:36:15.233 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Comparing login value ***
+22:36:47.474 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Starting TC_001_MyAccountLoginTest ***
+22:36:48.532 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Entering email address ***
+22:36:48.955 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Entering password  ***
+22:36:50.427 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Clicked on login ***
+22:36:50.483 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Comparing login value ***
+22:41:07.763 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Starting TC_001_MyAccountLoginTest ***
+22:41:08.856 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Entering email address ***
+22:41:09.262 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Entering password  ***
+22:41:10.845 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Clicked on login ***
+22:41:10.906 [main] INFO  testCases.TC_001_MyAccountLoginTest - *** Comparing login value ***
